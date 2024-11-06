@@ -5,10 +5,14 @@ authors = ["Boxuan Hu", "Albert Xie", "Willams Wang", "Zoe Huang"]
 draft = false
 +++
 
+## Welcome
+
+Welcome to __TechFounders__ @ University of California, Berkeley!
+
 ## Introduction
 
-Welcome to TechFounders @ University of California, Berkeley! 
+We are thrilled to launch our very first post on this blog! 
 
-This is our first post on this blog. We will use share thoughts and experiences about startups here.
+Here, we will share our insights, reflections, and experiences on emerging technologies and the latest trends shaping the tech industry.
 
-Please feel free to join us if you are interested.
+If you share our passion and curiosity, we warmly invite you to join our community.
