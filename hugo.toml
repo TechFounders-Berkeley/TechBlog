@@ -29,13 +29,14 @@ locale = "en-us"
 math = false # true: enable mathjax globally (default is false)
 toc = true
 
-# Graphcomment support
+# Graphcomment Support
 graphcommentId = ""
 
-GiscusRepo = "Junyi-99/hugo-theme-anubis2"
-GiscusRepoId = "R_kgDOLEp76Q"
-GiscusCategory = "General"
-GiscusCategoryId = "DIC_kwDOLEp76c4CcbPS"
+# Giscus Configuration
+GiscusRepo = "TechFounders-Berkeley/TechBlog"
+GiscusRepoId = "R_kgDONLLuxw"
+GiscusCategory = "Q&A"
+GiscusCategoryId = "DIC_kwDONLLux84CkBef"
 GiscusLazyLoad = false
 GiscusDataMapping = "pathname"
 
