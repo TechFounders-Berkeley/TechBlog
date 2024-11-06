@@ -5,11 +5,7 @@ authors = ["Boxuan Hu", "Albert Xie", "Willams Wang", "Zoe Huang"]
 draft = false
 +++
 
-## Welcome
-
 Welcome to __TechFounders__ @ University of California, Berkeley!
-
-## Introduction
 
 We are thrilled to launch our very first post on this blog! 
 
