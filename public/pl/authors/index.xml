@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on TechFounders Blog</title>
-    <link>/categories/</link>
-    <description>TechFounders Blog (Categories)</description>
+    <title>Authors on TechFounders Blog</title>
+    <link>/pl/authors/</link>
+    <description>TechFounders Blog (Authors)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>pl</language>
     
       
         <managingEditor>huboxuan2004@gmail.com
@@ -20,7 +20,7 @@
 
     
     
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/pl/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

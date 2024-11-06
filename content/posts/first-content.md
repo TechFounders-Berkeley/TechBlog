@@ -1,10 +1,14 @@
 +++
-title = 'My First Post'
-date = 2024-01-14T07:07:07+01:00
+title = "First Post"
+date = "2024-11-06"
+authors = ["Boxuan Hu", "Albert Xie", "Willams Wang", "Zoe Huang"]
 draft = false
 +++
+
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+Welcome to TechFounders @ University of California, Berkeley! 
 
-Visit the [Hugo](https://gohugo.io) website!
+This is our first post on this blog. We will use share thoughts and experiences about startups here.
+
+Please feel free to join us if you are interested.
