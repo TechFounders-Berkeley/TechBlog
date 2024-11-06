@@ -15,7 +15,7 @@ location = "Berkeley"
 
 [params]
 description = "TechFounders at UC Berkeley."
-dateFormat = "2024-11-04"
+dateFormat = "2006-01-02" # Date format for posts, pls do not move if you don't know format-date-string.
 paginationSinglePost = true
 
 colorTheme = "auto"
@@ -39,6 +39,7 @@ GiscusCategoryId = "DIC_kwDOLEp76c4CcbPS"
 GiscusLazyLoad = false
 GiscusDataMapping = "pathname"
 
+# Social links
 social = [
     { id = "github", url = "https://github.com/TechFounders-Berkeley" },
     { id = "linkedin", url = "https://www.linkedin.com/groups/14546438/" },
