@@ -2,47 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Albert Xie on TechFounders Blog</title>
-    <link>/authors/albert-xie/</link>
-    <description>TechFounders Blog (Albert Xie)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <link>http://localhost:1313/authors/albert-xie/</link>
+    <description>Recent content in Albert Xie on TechFounders Blog</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-      
-        <managingEditor>huboxuan2004@gmail.com
-          
-            (Boxuan Hu)
-          
-        </managingEditor>
-      
-
-      
-    
-
-    
+    <managingEditor>huboxuan2004@gmail.com (TechFounders-Berkeley)</managingEditor>
+    <webMaster>huboxuan2004@gmail.com (TechFounders-Berkeley)</webMaster>
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    
-    <atom:link href="/authors/albert-xie/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/authors/albert-xie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>/posts/first-content/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <author>huboxuan2004@gmail.com (Boxuan Hu)</author>
-      <guid>/posts/first-content/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#introduction&#34;&gt;
-        #
-    &lt;/a&gt;
-    Introduction
-&lt;/div&gt;
-&lt;/h2&gt;
-&lt;p&gt;Welcome to TechFounders @ University of California, Berkeley!&lt;/p&gt;
-&lt;p&gt;This is our first post on this blog. We will use share thoughts and experiences about startups here.&lt;/p&gt;
-&lt;p&gt;Please feel free to join us if you are interested.&lt;/p&gt;
-</description>
+      <link>http://localhost:1313/posts/first-content/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/posts/first-content/</guid>
+      <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;TechFounders&lt;/strong&gt; @ University of California, Berkeley!&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;We are thrilled to launch our very first post on this blog!&lt;/p&gt;&#xA;&lt;p&gt;Here, we will share our insights, reflections, and experiences on emerging technologies and the latest trends shaping the tech industry.&lt;/p&gt;&#xA;&lt;p&gt;If you share our passion and curiosity, we warmly invite you to join our community.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
