@@ -2,26 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TechFounders Blog</title>
-    <link>/tags/</link>
-    <description>TechFounders Blog (Tags)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on TechFounders Blog</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-      
-        <managingEditor>huboxuan2004@gmail.com
-          
-            (Boxuan Hu)
-          
-        </managingEditor>
-      
-
-      
-    
-
-    
-    
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <managingEditor>huboxuan2004@gmail.com (TechFounders-Berkeley)</managingEditor>
+    <webMaster>huboxuan2004@gmail.com (TechFounders-Berkeley)</webMaster>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

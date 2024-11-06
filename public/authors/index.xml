@@ -2,27 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on TechFounders Blog</title>
-    <link>/authors/</link>
-    <description>TechFounders Blog (Authors)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <link>http://localhost:1313/authors/</link>
+    <description>Recent content in Authors on TechFounders Blog</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-      
-        <managingEditor>huboxuan2004@gmail.com
-          
-            (Boxuan Hu)
-          
-        </managingEditor>
-      
-
-      
-    
-
-    
+    <managingEditor>huboxuan2004@gmail.com (TechFounders-Berkeley)</managingEditor>
+    <webMaster>huboxuan2004@gmail.com (TechFounders-Berkeley)</webMaster>
     <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
-    
-    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Albert Xie</title>
+      <link>http://localhost:1313/authors/albert-xie/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/albert-xie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boxuan Hu</title>
+      <link>http://localhost:1313/authors/boxuan-hu/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/boxuan-hu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Willams Wang</title>
+      <link>http://localhost:1313/authors/willams-wang/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/willams-wang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoe Huang</title>
+      <link>http://localhost:1313/authors/zoe-huang/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/zoe-huang/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
