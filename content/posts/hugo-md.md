@@ -34,14 +34,6 @@ You can still use __Markdown syntax__ within a blockquote.
 > __Note__ that you can use _Markdown syntax_ within a blockquote.
 
 
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-
 ## Tables
 
 Hugo supports supports Table, but the syntax is totally different to original markdown.
@@ -51,9 +43,9 @@ Hugo supports supports Table, but the syntax is totally different to original ma
   Bob   | 27
   Alice | 23
 
+Code in Hugo Markdown:
 
 ```markdown
-<!-- code in Hugo Markdown-->
    Name | Age
 --------|------
   Bob   | 27
@@ -68,8 +60,9 @@ Hugo supports supports Table, but the syntax is totally different to original ma
 *italics*  | **bold**  | ~~strikethrough~~ | `code`
 
 
+Code in Hugo Markdown:
+
 ```markdown
-<!-- code in Hugo Markdown-->
  Inline     | Markdown  | In                | Table
 ---------- | --------- | ----------------- | ----------
 *italics*  | **bold**  | ~~strikethrough~~ | `code`
@@ -93,7 +86,7 @@ Hugo supports supports Table, but the syntax is totally different to original ma
 </html>
 ```
 
-You can learn the detailed render syntax [here](https://github.com/TechFounders-Berkeley/TechBlog/tree/main/content/posts)
+Code in Hugo Markdown: [here]()
 
 ### Code block with Hugo's internal highlight shortcode
 
@@ -110,7 +103,8 @@ You can learn the detailed render syntax [here](https://github.com/TechFounders-
 </html>
 {{< /highlight >}}
 
-You can learn the detailed render syntax [here](https://github.com/TechFounders-Berkeley/TechBlog/tree/main/content/posts)
+Code in Hugo Markdown: [here]()
+
 
 ## List Types
 
@@ -160,15 +154,15 @@ You can learn the detailed render syntax [here](https://github.com/TechFounders-
 You can learn the detailed render syntax [here](https://github.com/TechFounders-Berkeley/TechBlog/tree/main/content/posts)
 
 
-## Other Elements — abbr, sub, sup, kbd, mark
+## Other Elements with HTML Syntax
 
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+- <abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
 
-H<sub>2</sub>O
+- H<sub>2</sub>O
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+- X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 
-Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd> to end the session.
+- Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd> to end the session.
 
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+- Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
 
