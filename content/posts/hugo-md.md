@@ -1,7 +1,7 @@
 +++
 title = "Markdown on Hugo"
 date = "2024-11-07"
-authors = ["Boxuan Hu"]
+authors = ["Boxuan Hu", "James Wang", "Maria Ma", "Albert Xie"]
 +++
 
 This article provides an example of basic Markdown syntax as used in Hugo, which differs slightly from standard Markdown. 
