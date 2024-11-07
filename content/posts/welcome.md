@@ -1,7 +1,7 @@
 +++
 title = "First Post"
 date = "2024-11-06"
-authors = ["Boxuan Hu", "Albert Xie", "Willams Wang", "Zoe Huang"]
+authors = ["Boxuan Hu", "Albert Xie", "James Wang", "Zoe Huang"]
 draft = false
 +++
 
