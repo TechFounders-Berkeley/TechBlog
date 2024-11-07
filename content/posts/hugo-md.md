@@ -86,7 +86,7 @@ Code in Hugo Markdown:
 </html>
 ```
 
-Code in Hugo Markdown: [here]()
+Code in Hugo Markdown: [here](https://github.com/TechFounders-Berkeley/TechBlog/blob/main/content/posts/hugo-md.md#code-block-with-backticks-and-showing-highlighted-lines), you should open the `.md` file to see the original code.
 
 ### Code block with Hugo's internal highlight shortcode
 
@@ -103,7 +103,7 @@ Code in Hugo Markdown: [here]()
 </html>
 {{< /highlight >}}
 
-Code in Hugo Markdown: [here]()
+Code in Hugo Markdown: [here](https://github.com/TechFounders-Berkeley/TechBlog/blob/main/content/posts/hugo-md.md#code-block-with-hugos-internal-highlight-shortcode), you should open the `.md` file to see the original code.
 
 
 ## List Types
