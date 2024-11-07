@@ -1,64 +1,31 @@
 +++
-author = "Hugo Authors"
 title = "Markdown Syntax Guide"
-date = "2024-05-07"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-authors = ["Junyi-99", "hugo"]
-aliases = ["migrate-from-jekyl"]
-favorite = true
+date = "2024-11-07"
+authors = ["Boxuan Hu"]
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+This article offers a sample of basic Markdown syntax that can be used in Hugo, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
 
 ## Headings
 
-The following HTML `<h2>`—`<h6>` elements represent 5 levels of section headings. `<h2>` is the highest section level while `<h6>` is the lowest.
+You should using `## H2` as your section title, since the file title is `# H1`.
 
-## H2
-
-You should using `## H2` as your section title, since the file title is `# H1`
-
-If you use `# H1` as your section title, you will get a warning from linter:
-
-```txt
-MD025/single-title/single-h1: Multiple top-level headings in the same document
-```
-
+```markdown
 ### H3
-
 #### H4
-
 ##### H5
-
 ###### H6
-
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur?
-Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+```
 
 ## Blockquotes
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+The blockquote element represents content that is quoted from another source.
 
 ### Blockquote without attribution
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+> Welcome to TechFounders
 >
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
@@ -71,18 +38,31 @@ The blockquote element represents content that is quoted from another source, op
 
 ## Tables
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+Hugo supports supports Table, but it's different to original markdown.
 
    Name | Age
 --------|------
   Bob   | 27
   Alice | 23
 
+```markdown
+   Name | Age
+--------|------
+  Bob   | 27
+  Alice | 23
+```
+
 ### Inline Markdown within tables
 
  Inline     | Markdown  | In                | Table
 ---------- | --------- | ----------------- | ----------
 *italics*  | **bold**  | ~~strikethrough~~ | `code`
+
+```markdown
+ Inline     | Markdown  | In                | Table
+---------- | --------- | ----------------- | ----------
+*italics*  | **bold**  | ~~strikethrough~~ | `code`
+```
 
 ## Code Blocks
 

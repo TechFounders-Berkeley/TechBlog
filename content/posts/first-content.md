@@ -7,7 +7,9 @@ draft = false
 
 Welcome to __TechFounders__ @ University of California, Berkeley!
 
-We are thrilled to launch our very first post on this blog! 
+<!--more-->
+
+This is TechFounders! We are thrilled to launch our very first post!
 
 ## Introduction
 
