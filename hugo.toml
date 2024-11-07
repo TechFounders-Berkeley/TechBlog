@@ -42,6 +42,7 @@ GiscusDataMapping = "pathname"
 
 # Social links
 social = [
+    { id = "telegram", url = "https://techfounders-web.pages.dev/" },
     { id = "github", url = "https://github.com/TechFounders-Berkeley" },
     { id = "linkedin", url = "https://www.linkedin.com/groups/14546438/" },
 ]
