@@ -38,5 +38,19 @@
       <guid>http://localhost:1313/authors/zoe-huang/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/authors/hugo/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Junyi-99</title>
+      <link>http://localhost:1313/authors/junyi-99/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/junyi-99/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
