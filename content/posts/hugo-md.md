@@ -6,7 +6,7 @@ authors = ["Boxuan Hu"]
 
 This article provides an example of basic Markdown syntax as used in Hugo, which differs slightly from standard Markdown. 
 
-All content on our blog is rendered from these Markdown files.
+All content in our blog is rendered from these Markdown files.
 
 <!--more-->
 
@@ -150,8 +150,6 @@ Code in Hugo Markdown: [here](https://github.com/TechFounders-Berkeley/TechBlog/
 
 2. Second Sub-item
 ```
-
-You can learn the detailed render syntax [here](https://github.com/TechFounders-Berkeley/TechBlog/tree/main/content/posts)
 
 
 ## Other Elements with HTML Syntax
