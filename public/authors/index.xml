@@ -8,20 +8,20 @@
     <language>en-us</language>
     <managingEditor>huboxuan2004@gmail.com (TechFounders-Berkeley)</managingEditor>
     <webMaster>huboxuan2004@gmail.com (TechFounders-Berkeley)</webMaster>
-    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boxuan Hu</title>
+      <link>http://localhost:1313/authors/boxuan-hu/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
+      <guid>http://localhost:1313/authors/boxuan-hu/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Albert Xie</title>
       <link>http://localhost:1313/authors/albert-xie/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
       <guid>http://localhost:1313/authors/albert-xie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Boxuan Hu</title>
-      <link>http://localhost:1313/authors/boxuan-hu/</link>
-      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate><author>huboxuan2004@gmail.com (TechFounders-Berkeley)</author>
-      <guid>http://localhost:1313/authors/boxuan-hu/</guid>
       <description></description>
     </item>
     <item>
